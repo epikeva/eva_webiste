@@ -1,0 +1,35 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+.table-row {
+     color: white;
+     background-color: pink;}
+
+#logo {color: #888;}
+
+.jumbotron {
+    text-align: center;
+    margin-top: 3%;
+    background-color: rgba(255, 255, 255, 0);}
+
+.service-box {
+	text-align: center;}
+
+footer {text-align: center;}
+
+/* p { color: #5a7; font-size: 24px; text-shadow: 2px 3px #0f0;} */
+
+#special { color: #55f; }
+#welcome { background-image: url("../Images/pink.jpg"); 
+           background-repeat: no-repeat;
+           background-size: cover; }
+ul {list-style-type: none;}
+ul li {display: inline;}
+html, body {height: 100%;}
+
+.nav a {
+	color: #888;
+    font-size: 2em;
+    text-shadow: 0.5px 0.5px #fff;}
+
+

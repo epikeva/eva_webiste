@@ -1,0 +1,12 @@
+.table-row {
+     color: white;
+     background-color: pink;
+}
+p { color: #5a7; font-size: 24px; text-shadow: 2px 3px #0f0;}
+
+#special { color: #55f; }
+#welcome { background-image: url("../images/city.jpg"); }
+ul {list-style-type: none;}
+ul li {display: inline;}
+
+
